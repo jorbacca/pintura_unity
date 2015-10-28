@@ -1,0 +1,1 @@
+﻿Marcar con un círculo las superficies hundidas y con una cruz las que sobresalen, para evitar que se nos pasen.

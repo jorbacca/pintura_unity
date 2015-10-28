@@ -1,0 +1,1 @@
+﻿Opciones de configuración de la aplicación. Con las siguientes opciones puedes reiniciar el Modo Evaluación y el Modo Guiado para volver a comenzar todo el proceso:

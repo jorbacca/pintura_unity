@@ -1,0 +1,1 @@
+﻿Busca el código que representa el abrasivo adecuado para hacer la primera pasada (P80- P120) y además busca el elemento de limpieza que utilizarás para remover el polvo.

@@ -1,0 +1,1 @@
+﻿Selecciona el modo en el que deseas trabajar. El modo guiado te llevara paso a paso por el proceso de reparación de pintura con pistas y ayudas. El modo evaluación no incluye pistas ni ayudas. El modo consulta te permite explorar libremente todo el proceso.

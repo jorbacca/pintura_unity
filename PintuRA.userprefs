@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControllerShowAddInfoGeneric.cs">
+    <Files>
+      <File FileName="Assets\Common\UIFramework\AppManager.cs" Line="4574" Column="21" />
+      <File FileName="Assets\Scripts\MenuOfStepsPhaseOneManagerEval.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuOfStepsPhaseTwoManagerEval.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanvasProcessPhasesMangEvaluation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SlotsBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SynchronizeInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NavigationControllerObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControllerShowAddInfoGeneric.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControllerConfigurationOptions.cs" Line="37" Column="4" />
+      <File FileName="Assets\ControllerAddInfoInMarker.cs" Line="149" Column="136" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,1 @@
+﻿Busca el código que representa el abrasivo que utilizarás para marcar la deformación (P320 ó P400):

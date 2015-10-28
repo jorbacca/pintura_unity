@@ -1,0 +1,5 @@
+﻿Con esta aplicación seguirás paso a paso el proceso de reparación de pintura. 
+
+A continuación te presentamos el reto de reparar la pintura del capó de un coche siguiendo todo el proceso paso a paso. 
+
+La aplicación te guiará en un proceso genérico de reparación de pintura paso a paso, en cada paso podrás ver videos del proceso y buscar en el taller las herramientas y productos que debes utilizar.
